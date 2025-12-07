@@ -1,0 +1,36 @@
+body {
+  font-family: Arial;
+  background: #101820;
+  color: white;
+  padding: 20px;
+}
+
+.card {
+  background: #1d2731;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin: 8px 0;
+  border-radius: 5px;
+  border: none;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background: #00bcd4;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+#sonuc {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #00e676;
+}
